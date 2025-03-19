@@ -1,8 +1,10 @@
 ### Heya! Welcome to my profile 👋
 
-## Nothing much yet
+## I like coding, games and literature
 
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## Programming languages
+- C++ (Beginner)
+- HTML & CSS (Beginner)
 
 ![Static Badge](https://img.shields.io/badge/Profile-work_in_progress_%5E%5E-purple)
 
