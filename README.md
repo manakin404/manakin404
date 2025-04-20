@@ -1,11 +1,2 @@
-### Heya! Welcome to my profile 👋
-
-## I like coding, games and literature
-
-## Programming languages
-- C++ (Beginner)
-- HTML & CSS (Beginner)
-
-![Static Badge](https://img.shields.io/badge/Profile-work_in_progress_%5E%5E-purple)
-
+# $6CO_2 + 6H_2O → C_6H_{12}O_6 + 6O2$
 
